@@ -7,7 +7,7 @@ export default function Primeiro() {
         <div>
             <h2>Meu primeiro componente</h2>
             <p>{msg}</p>
-            
+
         </div>
     )
 }
