@@ -15,7 +15,7 @@ export default () =>
             <Card titulo="#04 - Desafio Aleatório" color=" #2ab7ca">
                 <Aleatorio min={1} max={60} />
             </Card>
-            <Card titulo="#03 - Fragmento" color="#7bc043">
+            <Card titulo="#03 - Fragmento teste" color="#7bc043">
                 <Fragmento />
             </Card>
             <Card titulo="#02 - Com Parâmetro" color="#ee4035 ">
